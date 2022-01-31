@@ -1,2 +1,2 @@
 # Exercicios Variaveis Back-end
-Resolução de Exercício das Aulas de Variáveis - Desenvolvimento de Software 
+Resolução de Exercícios das Aulas de Variáveis - Desenvolvimento de Software 
